@@ -1,0 +1,29 @@
+{
+  "name": "oohlords",
+  "version": "0.1.0",
+  "description": "Church encoding library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anqurvanillapy/oohlords.git"
+  },
+  "keywords": [
+    "lambda-calculus",
+    "church-encoding"
+  ],
+  "author": "AnqurVanillapy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anqurvanillapy/oohlords/issues"
+  },
+  "homepage": "https://github.com/anqurvanillapy/oohlords#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^21.2.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^21.2.1"
+  }
+}
